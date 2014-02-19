@@ -1,0 +1,19 @@
+﻿body {
+}
+#Box {
+    width:700px;
+    margin:0 auto;
+    display:block;
+}
+#Image2 {
+    max-width:400px;
+    display:block;
+    padding:2px;
+}
+#thumbs {
+    overflow:auto;
+}
+.frame {
+    border:solid blue 1px;
+    display:inline-block;
+}
